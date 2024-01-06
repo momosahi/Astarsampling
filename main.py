@@ -1,4 +1,4 @@
-""" A* Sampling """
+""" Implementation of the paper A* Sampling """
 
 
 import numpy as np
